@@ -1,0 +1,5 @@
+Component: main
+Origin: iorgos.net/suckless-ubuntu
+Label: iorgos.net/suckless-ubuntu
+Architecture: amd64
+Description: Suckless Ubuntu "Athani" repository

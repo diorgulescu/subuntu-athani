@@ -1,0 +1,19 @@
+Origin: iorgos.net/suckless-ubuntu
+Label: iorgos.net/suckless-ubuntu
+Codename: bionic
+Date: Wed, 20 Nov 2019 13:29:02 UTC
+Architectures: amd64
+Components: main
+Description: Suckless Ubuntu "Athani" repository
+MD5Sum:
+ d2d9064a1b43e484105277c67d29f7c0 1087 main/binary-amd64/Packages
+ e1d69594a7c27d1a687c0f9cbea2c31c 711 main/binary-amd64/Packages.gz
+ 4ec203c106a156b28ff6da9866d8d01e 154 main/binary-amd64/Release
+SHA1:
+ 49d39fadb98e4f1b7be59c6f8059eaa9af964550 1087 main/binary-amd64/Packages
+ 7620c1ae378866f71cf93c96a86f07b123f6a0e3 711 main/binary-amd64/Packages.gz
+ 091156da770bcac2dc43a931d2e5d97635b31b16 154 main/binary-amd64/Release
+SHA256:
+ ecf78520719edc7394a5e7e738148f06b4ca1ad6e98f4d273ec1322747b821ba 1087 main/binary-amd64/Packages
+ dd8abe5e22fbcdaf668616855e54eda4baca1c86bb56d6f94f2974a45dcf363c 711 main/binary-amd64/Packages.gz
+ f3127974a43f4e5e4724b7172b51223a41cbba73dfee405c5b058cbc2c5ba710 154 main/binary-amd64/Release

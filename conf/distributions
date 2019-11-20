@@ -1,0 +1,7 @@
+Origin: iorgos.net/suckless-ubuntu
+Label: iorgos.net/suckless-ubuntu
+Codename: bionic
+Architectures: amd64
+Components: main
+Description: Suckless Ubuntu "Athani" repository
+SignWith: C17FD226D7258604FEA5FCFA13307006975CDA2C

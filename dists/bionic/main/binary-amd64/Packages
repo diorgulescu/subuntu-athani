@@ -1,0 +1,21 @@
+Package: min
+Version: 1.11.1-1
+Architecture: amd64
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libuuid1, kde-cli-tools | kde-runtime | trash-cli | libglib2.0-bin | gvfs-bin, gconf2, gconf-service, gvfs-bin, libasound2, libc6, libcap2, libgtk2.0-0, libudev0 | libudev1, libgcrypt11 | libgcrypt20, python
+Recommends: pulseaudio | libasound2
+Suggests: gir1.2-gnomekeyring-1.0, libgnome-keyring0, lsb-release
+Installed-Size: 182363
+Maintainer: Min Developers <280953907a@zoho.com>
+Homepage: https://minbrowser.github.io/min/
+Priority: optional
+Section: web
+Filename: pool/main/m/min/min_1.11.1-1_amd64.deb
+Size: 51583516
+SHA256: a4fbb868e4769b0d7f56a5a7a6a11d5efa82be900336289a09b5d9e31c6891f2
+SHA1: edd3331821b77cf444a5c74e080e7f3701cbc72e
+MD5sum: 918d1024acf2159028ea6e104ad544d7
+Description: Min is a fast, minimal browser that protects your privacy.
+ A web browser with smarter search, improved tab management, and built-in ad 
+ blocking. Includes full-text history search, instant answers from DuckDuckGo, 
+ the ability to split tabs into groups, and more.
+
